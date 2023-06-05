@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sherry77-w.github.io/sitemap.xml
